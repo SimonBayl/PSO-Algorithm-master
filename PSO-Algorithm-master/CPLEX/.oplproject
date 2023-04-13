@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config name="Algorithme PSO" category="opl">
+            			
+            <ref name="PSO.dat" type="data">
+			</ref>
+            			
+            <ref name="PSO.mod" type="model">
+			</ref>
+            		
+        </config>
+
+        <config default="true" name="Méthode exacte" category="opl">
+
+            <ref name="Exacte.dat" type="data">
+			</ref>
+
+            <ref name="Exacte.mod" type="model">
+			</ref>
+
+        </config>
+        	
+    </configs>
+    	
+
+</project>

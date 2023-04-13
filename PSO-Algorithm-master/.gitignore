@@ -1,0 +1,10 @@
+.venv
+*.dat
+
+.idea/
+.vscode/
+
+dist/
+build/
+*.exe
+*_exe/
